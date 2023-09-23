@@ -1,0 +1,40 @@
+#login {
+    background-color: green;
+    margin: 10px;
+    
+}
+.login-box {
+    display: flex;
+    flex-direction:column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    height:50%;
+    width: 30%;
+}
+.input-name {
+    position: relative;
+}
+
+.input-name input {
+    width:102%;
+}
+
+.form h3 {
+    font-size: 13px;
+    position: absolute;
+    bottom: 220px;
+    left: 50px;
+    color:green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form h2 {
+    position: absolute;
+    font-size: 13px;
+    bottom: 220px;
+    left: 320px;
+    color:green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
