@@ -2,7 +2,7 @@
 
 > A platform where students can **share their projects**, **learn from each other**, and **grow together**.
 
-![ProjectHub Banner](https://via.placeholder.com/1000x300?text=ProjectHub+%7C+Student+Projects+Sharing+Platform)
+![ProjectHub Banner](https://github.com/Ronak-harbala/PROJECT-COLLAB-GALLERY/blob/main/PROJECT%20COLLAB%20GALERY/Banner.png?raw=true)
 
 ---
 
@@ -11,6 +11,11 @@
 **ProjectHub** is an open platform where students can submit their projects, get them verified, and have them published for the world to see. The idea is to **promote project-based learning** and help students **learn from real-world implementations** made by their peers.
 
 ---
+
+## Screenshots
+![ProjectHub screeshot](https://github.com/Ronak-harbala/PROJECT-COLLAB-GALLERY/blob/main/image.png?raw=true)
+
+
 
 ## 🎯 Features
 
